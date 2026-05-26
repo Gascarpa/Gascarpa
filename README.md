@@ -43,5 +43,5 @@ Atualmente estou expandindo meus conhecimentos em desenvolvimento Full Stack, cr
 Atuar na área de Tecnologia da Informação, unindo experiência em infraestrutura, automação e desenvolvimento para construir soluções eficientes e escaláveis.
 
 📫 Contato  
-LinkedIn: linkedin.com/in/gabriel-scarparo  
+LinkedIn: [linkedin.com/in/gabriel-scarparo](https://www.linkedin.com/in/gabriel-scarparo-33b2541a3/)  
 E-mail: gascarparo02@gmail.com

@@ -1,6 +1,6 @@
 # Olá! Eu sou Gabriel Scarparo 👋
 
-💻 Profissional de TI | Infraestrutura | Automação | Desenvolvimento Full Stack
+💻 Profissional de TI | Analista de sistemas | Automação | Desenvolvimento Full Stack
 
 Sou Bacharel em Ciência da Computação com experiência em infraestrutura, suporte técnico e sustentação de ambientes corporativos e hospitalares críticos.
 
@@ -24,10 +24,11 @@ Atualmente estou expandindo meus conhecimentos em desenvolvimento Full Stack, cr
 ### Desenvolvimento
 - HTML5
 - CSS3
+- Java
 - JavaScript
 - Node.js
 - React
-- SQL / PostgreSQL
+- OracleSQL / MySQL
 - APIs REST
 - Git & GitHub
 - Postman
@@ -37,7 +38,7 @@ Atualmente estou expandindo meus conhecimentos em desenvolvimento Full Stack, cr
 - Node.js
 - React
 - APIs REST
-- Banco de Dados
+- SQL
 
 ## 🎯 Objetivo
 Atuar na área de Tecnologia da Informação, unindo experiência em infraestrutura, automação e desenvolvimento para construir soluções eficientes e escaláveis.
@@ -45,3 +46,4 @@ Atuar na área de Tecnologia da Informação, unindo experiência em infraestrut
 📫 Contato  
 LinkedIn: [linkedin.com/in/gabriel-scarparo](https://www.linkedin.com/in/gabriel-scarparo-33b2541a3/)  
 E-mail: gascarparo02@gmail.com
+Telefone: (16)98849-84105

@@ -1,6 +1,6 @@
 # Olá! Eu sou Gabriel Scarparo 👋
 
-💻 Profissional de TI | Analista de sistemas | Automação | Desenvolvimento Full Stack
+💻 Profissional de TI | Backend | Analista de sistemas | Automação | 
 
 Sou Bacharel em Ciência da Computação com experiência em desenvolvimento, suporte técnico e sustentação de ambientes corporativos e hospitalares críticos.
 
@@ -11,11 +11,7 @@ Atualmente estou expandindo meus conhecimentos em desenvolvimento Full Stack, cr
 ### Desenvolvimento
 - Java
 - APIs REST
-- HTML5
-- CSS3
-- JavaScript
-- React
-- OracleSQL / MySQL
+- OracleSQL
 - Git & GitHub
 - Postman
 

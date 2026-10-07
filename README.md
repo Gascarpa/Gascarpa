@@ -1,4 +1,4 @@
-# Olá! Eu sou Gabriel Scarparo 👋
+# Seja bem vindo! Eu sou Gabriel Scarparo
 
 💻 Profissional de TI | Backend | Analista de sistemas | Automação | 
 
